@@ -63,6 +63,14 @@ class Honda extends Bike {
     public void setSpeed(String speed) {
         this.speed = speed;
     }
+
+//    @Override
+//    public String toString() {
+//        return "Honda{" +
+//                "color='" + color + '\'' +
+//                ", speed='" + speed + '\'' +
+//                '}';
+//    }
 }
 
 class Engine {
